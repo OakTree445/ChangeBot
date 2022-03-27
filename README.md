@@ -1,6 +1,8 @@
 # ChangeBot
  Magnetic Toolchanging  3d printer system compatable with VzBot
  
+ ![pic of motion system](motion.jpg)
+ 
  
 These files are to replace the Xgantry on the Vzbot with one that can pick up and store tools automatically. The goal of this 
 was to create a toolchanging system fairly cheap. It uses 1in SmCo magnets to retain the tool. This means that there are no moving

@@ -12,3 +12,6 @@ This is around 3x cheaper than the e3d toolchanger, with simmilar functionality.
 provide no cmechanical lock to keep them located, meaning that the printhead can wiggle around or even fall off mid print. I have microswitched on each printhead to detect that it is on the toolhead and stop the print if the printhead falls off. 
 
 That being said, after ~100 hours printing at 100-200mm/s I have had no issues or print defects that stem from the printhead moving around.
+
+
+Videos of it in action can be seen at https://www.youtube.com/channel/UCexG9mjx7px7rB0vybMDJzQ

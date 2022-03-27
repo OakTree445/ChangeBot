@@ -3,6 +3,8 @@
  
  ![pic of motion system](motion.jpg)
  
+ The frame is all 500mm 2020 and 2040 extrusions because it was the easierst size for me to get. This means that the frame dimmentions are a little different than the stock VzBot, but the mod is still fully compatable with a stock VzBot because the XY motion system is the same that is used on the VzBot.
+ 
  
 These files are to replace the Xgantry on the Vzbot with one that can pick up and store tools automatically. The goal of this 
 was to create a toolchanging system fairly cheap. It uses 1in SmCo magnets to retain the tool. This means that there are no moving

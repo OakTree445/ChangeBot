@@ -1,0 +1,1 @@
+This is the assembly that replaces the printhead of the VzBot. This uses two 1in x 1/8in SmCo magnets to grab on to the detachable printheads. The kinematic coupler is 3 pan head m4 screws that locate onto 6 3.5mm diameter steel rods. There are no moving parts that can wear out with this system.
